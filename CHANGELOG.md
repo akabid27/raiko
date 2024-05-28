@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/taikoxyz/raiko/compare/v1.0.0...v1.1.0) (2024-05-28)
+
+
+### Features
+
+* **docs:** update tencent link ([#269](https://github.com/taikoxyz/raiko/issues/269)) ([1e2a254](https://github.com/taikoxyz/raiko/commit/1e2a2541111d70352aaefc4c629f9daea58ce6e4))
+* **raiko-lib:** unify protocol instance for on chain verification ([#230](https://github.com/taikoxyz/raiko/issues/230)) ([ed37856](https://github.com/taikoxyz/raiko/commit/ed37856906bf27433418e7a781d4138b180da550))
+
+
+### Bug Fixes
+
+* **host:** add guest request count and make concurrent request decrementation more ergonomic ([#261](https://github.com/taikoxyz/raiko/issues/261)) ([d660a17](https://github.com/taikoxyz/raiko/commit/d660a17c9fef9ce9fa58558a4d3da115d134dad6))
+
 ## 1.0.0 (2024-05-25)
 
 
