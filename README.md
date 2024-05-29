@@ -1,3 +1,4 @@
+Exited
 # raiko
 
 Taiko's multi-prover of Taiko & Etheruem block, currently supports Risc0, Sp1, and SGX.
